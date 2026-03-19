@@ -6,7 +6,7 @@ This project focuses on modern UI design, layout accuracy, and responsiveness in
 ---
 
 ## 🚀 Live Preview
-https://bisenayush369-star.github.io/Netflix-Clone/
+https://netflex-ayushdevx.netlify.app/
 
 ---
 
